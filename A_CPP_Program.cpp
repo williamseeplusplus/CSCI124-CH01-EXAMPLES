@@ -4,7 +4,7 @@ using namespace std;
  
 int main() 
 { 
-    cout << "My first C++ program." << endl;
+    cout << "Experimenting with my first C++ program." << endl;
 
     return 0;
 }   
